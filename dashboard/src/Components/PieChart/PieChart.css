@@ -1,0 +1,226 @@
+.piechartContainer {
+  /* Layout Properties */
+  position: absolute;
+  top: 560px;
+  left: 934px;
+  width: 307px;
+  height: 321px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--unnamed-color-ebecee);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ebecee;
+  border-radius: 2px;
+  opacity: 1;
+}
+.piechartTitle {
+  /* Layout Properties */
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 89px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(---403f40-main-text);
+  text-align: left;
+  font: normal normal medium 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.chart {
+  position: absolute;
+  top: 116px;
+  left: 20px;
+  width: 157px;
+  height: 158px;
+}
+.musk {
+  position: absolute;
+  top: 199.71px;
+  left: 131.81px;
+  width: 30px;
+  height: 19px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 16px/18px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.innerChart {
+  /* Layout Properties */
+  position: absolute;
+  top: 186.5px;
+  left: 81.23px;
+  width: 36px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  font: normal normal medium 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.zene {
+  position: absolute;
+  top: 171.27px;
+  left: 35px;
+  width: 30px;
+  height: 19px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 16px/18px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.circle1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 113.52px;
+  left: 211px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  /* UI Properties */
+  background: #20c54c 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.circle2 {
+  /* Layout Properties */
+  position: absolute;
+  border-radius: 50%;
+  top: 173.86px;
+  left: 211px;
+  width: 11px;
+  height: 11px;
+  /* UI Properties */
+  background: #206dc5 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.circle3 {
+  /* Layout Properties */
+  position: absolute;
+  border-radius: 50%;
+  top: 234.86px;
+  left: 211px;
+  width: 11px;
+  height: 11px;
+  /* UI Properties */
+  background: #aaaaaa 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.muskSpan {
+  /* Layout Properties */
+  position: absolute;
+  top: 171px;
+  left: 227px;
+  width: 57px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.zeneSpan {
+  /* Layout Properties */
+  position: absolute;
+  top: 110px;
+  left: 227px;
+  width: 31px;
+  height: 17px;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.ostaloSpan {
+  /* Layout Properties */
+  position: absolute;
+  top: 232px;
+  left: 227px;
+  width: 40px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.zeneNum {
+  /* Layout Properties */
+  position: absolute;
+  top: 132px;
+  left: 227px;
+  width: 27px;
+  height: 19px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 16px/20px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.muskNum {
+  /* Layout Properties */
+  position: absolute;
+  top: 193px;
+  left: 227px;
+  width: 27px;
+  height: 19px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 16px/20px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.ostaloNum {
+  /* Layout Properties */
+  position: absolute;
+  top: 254px;
+  left: 227px;
+  width: 9px;
+  height: 19px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 16px/20px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}

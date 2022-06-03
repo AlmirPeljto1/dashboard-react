@@ -1,0 +1,177 @@
+.document {
+  /* Layout Properties */
+  position: absolute;
+  top: 144px;
+  left: 311px;
+  width: 600px;
+  height: 211px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 1px solid #ebecee;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ebecee;
+  opacity: 1;
+}
+.dokumentH1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 22px;
+  left: 30.12px;
+  width: 137px;
+  height: 34px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold)
+    var(--unnamed-font-size-28) / var(--unnamed-line-spacing-18)
+    var(--unnamed-font-family-roboto);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-100f10);
+  text-align: left;
+  font: normal normal bold 28px/18px Roboto;
+  letter-spacing: 0px;
+  color: #100f10;
+  opacity: 1;
+}
+.doc1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 79px;
+  left: 30.12px;
+  width: 35px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  font: normal normal medium 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.doc2 {
+  /* Layout Properties */
+  position: absolute;
+  top: 113px;
+  left: 30px;
+  width: 170px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.doc3 {
+  /* Layout Properties */
+  position: absolute;
+  top: 153px;
+  left: 30px;
+  width: 180px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.doc4 {
+  /* Layout Properties */
+  position: absolute;
+  top: 79px;
+  left: 462px;
+  width: 50px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal medium 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.doc5 {
+  /* Layout Properties */
+  position: absolute;
+  top: 113px;
+  left: 462px;
+  width: 60px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.doc6 {
+  /* Layout Properties */
+  position: absolute;
+  top: 153px;
+  left: 462px;
+  width: 44px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  font: normal normal normal 14px/18px Roboto;
+  letter-spacing: 0px;
+  color: #403f40cc;
+  opacity: 1;
+}
+.icon1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 110px;
+  left: 556px;
+  width: 14px;
+  height: 14px;
+  /* UI Properties */
+
+  opacity: 0.3;
+}
+.icon2 {
+  /* Layout Properties */
+  position: absolute;
+  top: 150px;
+  left: 556px;
+  width: 14px;
+  height: 14px;
+  /* UI Properties */
+
+  opacity: 0.3;
+}
+.crta {
+  position: absolute;
+  top: 113px;
+  left: 30px;
+  width: 540px;
+  height: 28px;
+  border-bottom: 1px solid #f2f2f2;
+  /* UI Properties */
+  opacity: 1;
+}
+.crta1 {
+  position: absolute;
+  top: 153px;
+  left: 30px;
+  width: 540px;
+  height: 28px;
+  border-bottom: 1px solid #f2f2f2;
+  /* UI Properties */
+  opacity: 1;
+}

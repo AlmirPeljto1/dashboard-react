@@ -1,0 +1,11 @@
+.home {
+  /* Layout Properties */
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  height: 1432px;
+  /* UI Properties */
+  background: var(---fcfcfc-background-color) 0% 0% no-repeat padding-box;
+  background: #fcfcfc 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

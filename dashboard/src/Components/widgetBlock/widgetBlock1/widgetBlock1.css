@@ -1,0 +1,78 @@
+.widgetContainer1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 256px;
+  left: 607px;
+  width: 307px;
+  height: 127px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--unnamed-color-ebecee);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ebecee;
+  border-radius: 2px;
+  opacity: 1;
+}
+.widgetImg1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 23px;
+  left: 20px;
+  width: 39px;
+  height: 39px;
+  /* UI Properties */
+  opacity: 1;
+}
+.widgetTitle1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 23px;
+  left: 74px;
+  width: 150px;
+  height: 17px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.widgetNum1 {
+  /* Layout Properties */
+  position: absolute;
+  top: 50px;
+  left: 74px;
+  width: 35px;
+  height: 24px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 900;
+  color: var(---403f40-main-text);
+  text-align: left;
+
+  letter-spacing: 0px;
+  color: #403f40;
+  opacity: 1;
+}
+.widgetStat1 {
+  /* Layout Properties */
+  margin: 0;
+  position: absolute;
+  top: 76px;
+  left: 74px;
+  width: 90px;
+  height: 14px;
+  /* UI Properties */
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 400;
+  color: var(---747474-sub-text);
+  text-align: left;
+  font: normal normal normal 12px/20px Roboto;
+  letter-spacing: 0.12px;
+  color: #747474;
+  opacity: 0.5;
+}
